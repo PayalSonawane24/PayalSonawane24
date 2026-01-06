@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently pursuing java development full stack course <br>I have completed html, css, js, react and sql <br> 
+I am currently Pursuing Java FullStack Development Course <br>I have completed HTML5, CSS3, Js, React and SQL <br> 
 
 
 ## 🌐 Socials:
